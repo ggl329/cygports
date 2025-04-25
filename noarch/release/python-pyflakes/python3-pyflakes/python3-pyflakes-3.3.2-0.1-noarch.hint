@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-pyflakes
+sdesc: "Simple program which checks Python source files for errors"
+ldesc: "The python3-pyflakes virtual package. Selecting this package for installation will cause the python39-pyflakes package to be installed."
+external-source: python-pyflakes
+
