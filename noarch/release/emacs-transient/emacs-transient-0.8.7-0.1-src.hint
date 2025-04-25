@@ -1,0 +1,8 @@
+category: Editors
+build-depends: cygport texinfo
+sdesc: "Transient command menus in Emacs"
+ldesc: "Transient is the library used to implement the keyboard-driven 'menus' in Magit. It is distributed as a separate package, so that it can be used to implement similar menus in other packages."
+skip:
+
+homepage: https://github.com/magit/transient
+license: GPL-3.0-or-later
