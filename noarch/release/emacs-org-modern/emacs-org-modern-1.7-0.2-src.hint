@@ -1,0 +1,8 @@
+category: Editors
+build-depends: cygport texinfo
+sdesc: "Modern Org Style for Emacs"
+ldesc: "This package implements a modern style for your Org buffers using font locking and text properties. The package styles headlines, keywords, tables and source blocks. The styling is configurable, you can disable or modify the style of each syntax element individually via the org-modern customization group."
+skip:
+
+homepage: https://github.com/minad/org-modern
+license: GPL-3.0-or-later
