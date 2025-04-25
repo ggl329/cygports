@@ -1,0 +1,5 @@
+category: Editors
+requires: emacs-bin
+sdesc: "Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA)"
+ldesc: "The Modus themes are designed for accessible readability. They conform with the highest standard for color contrast between combinations of background and foreground values. For small sized text, this corresponds to the WCAG AAA standard, which specifies a minimum rate of distance in relative luminance of 7:1."
+
