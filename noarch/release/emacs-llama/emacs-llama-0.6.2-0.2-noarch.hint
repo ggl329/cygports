@@ -1,0 +1,5 @@
+category: Editors
+requires: emacs-bin
+sdesc: "Compact syntax for short lambda in Emacs"
+ldesc: "This package implements a macro named ##, which provides a compact way to write short lambda expressions."
+
