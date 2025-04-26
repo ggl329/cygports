@@ -1,0 +1,8 @@
+category: Editors
+build-depends: cygport texinfo
+sdesc: "Completion At Point Extensions for Emacs"
+ldesc: "Cape provides Completion At Point Extensions which can be used in combination with Corfu, Company or the default completion UI. The completion backends used by completion-at-point are so called completion-at-point-functions (Capfs)."
+skip:
+
+homepage: https://github.com/minad/cape
+license: GPL-3.0-or-later
