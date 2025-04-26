@@ -1,0 +1,9 @@
+category: Libs
+requires: alternatives cygwin libassuan9 libgpg-error0
+sdesc: "GnuPG password dialog (tty)"
+ldesc: "pinentry is a small collection of dialog programs that allow GnuPG
+to read passphrases and PIN numbers in a secure manner. There are versions for
+the common GTK and Qt toolkits as well as for the text terminal (Curses)."
+provides: pinentry-bin
+external-source: pinentry
+
