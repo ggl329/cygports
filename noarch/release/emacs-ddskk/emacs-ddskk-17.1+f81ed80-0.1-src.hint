@@ -1,0 +1,10 @@
+category: Editors
+build-depends: cygport texinfo
+sdesc: "Daredevil SKK (Simple Kana to Kanji conversion program) for Emacs"
+ldesc: "Daredevil SKK is a version of SKK (Simple Kana to Kanji conversion program, an input method of Japanese) on GNU Emacs maintained by the skk-dev team.
+
+It consists of a simple core and many optional programs which provide extensive features. Though it has been well developed, our target is more simplified core, and much more optional features."
+skip:
+
+homepage: http://openlab.ring.gr.jp/skk/index.html
+license: GPL-3.0-or-later
