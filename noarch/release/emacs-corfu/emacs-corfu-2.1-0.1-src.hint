@@ -1,0 +1,8 @@
+category: Editors
+build-depends: cygport texinfo
+sdesc: "COmpletion in Region FUnction for Emacs"
+ldesc: "Corfu enhances in-buffer completion with a small completion popup. The current candidates are shown in a popup below or above the point, and can be selected by moving up and down. Corfu is the minimalistic in-buffer completion counterpart of the Vertico minibuffer UI."
+skip:
+
+homepage: https://github.com/minad/corfu
+license: GPL-3.0-or-later
