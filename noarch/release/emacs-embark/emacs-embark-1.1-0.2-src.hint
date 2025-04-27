@@ -1,0 +1,8 @@
+category: Editors
+build-depends: cygport texinfo
+sdesc: "Emacs Mini-Buffer Actions Rooted in Keymaps"
+ldesc: "Embark makes it easy to choose a command to run based on what is near point, both during a minibuffer completion session (in a way familiar to Helm or Counsel users) and in normal buffers."
+skip:
+
+homepage: https://github.com/oantolin/embark
+license: GPL-3.0-or-later
