@@ -1,0 +1,5 @@
+category: Editors
+requires: emacs-bin emacs-nerd-icons
+sdesc: "Use nerd-icons for completion in Emacs"
+ldesc: "Use nerd-icons for completion in Emacs. nerd-icons-completion is inspired by all-the-icons-completion."
+

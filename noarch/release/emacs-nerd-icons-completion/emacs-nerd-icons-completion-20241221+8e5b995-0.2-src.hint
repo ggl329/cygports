@@ -1,0 +1,8 @@
+category: Editors
+build-depends: cygport 
+sdesc: "Use nerd-icons for completion in Emacs"
+ldesc: "Use nerd-icons for completion in Emacs. nerd-icons-completion is inspired by all-the-icons-completion."
+skip:
+
+homepage: https://melpa.org/#/nerd-icons-completion
+license: GPL-3.0-or-later
