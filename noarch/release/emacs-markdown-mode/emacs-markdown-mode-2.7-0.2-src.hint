@@ -1,0 +1,8 @@
+category: Editors
+build-depends: cygport 
+sdesc: "Emacs Markdown Mode"
+ldesc: "markdown-mode is a major mode for editing Markdown-formatted text."
+skip:
+
+homepage: https://jblevins.org/projects/markdown-mode/
+license: GPL-3.0-or-later

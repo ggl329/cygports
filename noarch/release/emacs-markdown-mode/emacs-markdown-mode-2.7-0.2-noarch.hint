@@ -1,0 +1,5 @@
+category: Editors
+requires: emacs-bin
+sdesc: "Emacs Markdown Mode"
+ldesc: "markdown-mode is a major mode for editing Markdown-formatted text."
+
