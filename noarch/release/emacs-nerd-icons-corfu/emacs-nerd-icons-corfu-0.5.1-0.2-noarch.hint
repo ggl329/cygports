@@ -1,0 +1,5 @@
+category: Editors
+requires: emacs-bin emacs-nerd-icons
+sdesc: "Icons for Emacs corfu via nerd-icons"
+ldesc: "Nerd-icons-corfu.el is a library for adding icons to completions in Emacs Corfu. It uses nerd-icons.el under the hood and, as such, works on both GUI and terminal."
+
