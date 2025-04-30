@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-coverage
+sdesc: "Code coverage tool for Python"
+ldesc: "The python3-coverage virtual package. Selecting this package for installation will cause the python39-coverage package to be installed."
+external-source: python-coverage
+
