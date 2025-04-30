@@ -1,0 +1,8 @@
+category: Python
+build-depends: cygport 
+sdesc: "Coverage plugin for pytest"
+ldesc: "This plugin produces coverage reports. Compared to just using coverage run this plugin does some extras."
+skip:
+
+homepage: https://github.com/pytest-dev/pytest-cov
+license: MIT

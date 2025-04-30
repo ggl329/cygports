@@ -1,0 +1,6 @@
+category: Python
+requires: python39 python39-coverage python39-pytest
+sdesc: "Coverage plugin for pytest"
+ldesc: "This plugin produces coverage reports. Compared to just using coverage run this plugin does some extras."
+external-source: python-pytest-cov
+

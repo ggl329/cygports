@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-pytest-cov
+sdesc: "Coverage plugin for pytest"
+ldesc: "The python3-pytest-cov virtual package. Selecting this package for installation will cause the python39-pytest-cov package to be installed."
+external-source: python-pytest-cov
+
