@@ -1,0 +1,8 @@
+category: Editors
+build-depends: cygport texinfo
+sdesc: "Emacs completion style that matches multiple regexps in any order"
+ldesc: "This package provides an orderless completion style that divides the pattern into space-separated components, and matches candidates that match all of the components in any order. Each component can match in any one of several ways: literally, as a regexp, as an initialism, in the flex style, or as multiple word prefixes. By default, regexp and literal matches are enabled."
+skip:
+
+homepage: https://github.com/oantolin/orderless
+license: GPL-3.0-or-later
