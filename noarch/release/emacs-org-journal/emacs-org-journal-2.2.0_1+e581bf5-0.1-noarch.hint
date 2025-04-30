@@ -1,0 +1,5 @@
+category: Editors
+requires: emacs-bin
+sdesc: "Simple org-mode based journaling mode in Emacs"
+ldesc: "Functions to maintain a simple personal diary / journal using in Emacs."
+

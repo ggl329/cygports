@@ -1,0 +1,8 @@
+category: Editors
+build-depends: cygport 
+sdesc: "Simple org-mode based journaling mode in Emacs"
+ldesc: "Functions to maintain a simple personal diary / journal using in Emacs."
+skip:
+
+homepage: https://github.com/bastibe/org-journal
+license: BSD-3-Clause
