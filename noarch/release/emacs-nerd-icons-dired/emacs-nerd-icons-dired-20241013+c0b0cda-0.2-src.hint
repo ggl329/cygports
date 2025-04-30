@@ -1,0 +1,8 @@
+category: Editors
+build-depends: cygport 
+sdesc: "Use nerd-icons for Dired in Emacs"
+ldesc: "nerd-icons-dired is inspired by all-the-icons-dired."
+skip:
+
+homepage: https://github.com/rainstormstudio/nerd-icons-dired
+license: GPL-3.0-or-later
