@@ -1,0 +1,5 @@
+category: Editors
+requires: emacs-bin
+sdesc: "convert buffer text and decorations to HTML in Emacs"
+ldesc: "This package converts the buffer text and the associated decorations to HTML. It supports three types of HTML output, selected by setting htmlize-output-type: css, inline-css (optimized for code snippets), and font (simpler output, doesn't rely on CSS)."
+
