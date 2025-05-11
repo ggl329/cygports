@@ -1,0 +1,8 @@
+category: Python
+build-depends: cygport 
+sdesc: "On the fly conversion of Python docstrings to markdown"
+ldesc: "This can recognise reStructuredText and convert multiple of its features to Markdown. and since v0.13 includes initial support for Google-formatted docstrings."
+skip:
+
+homepage: https://github.com/python-lsp/docstring-to-markdown
+license: LGPL-2.1-or-later

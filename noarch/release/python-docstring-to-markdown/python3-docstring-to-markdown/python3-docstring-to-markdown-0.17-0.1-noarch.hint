@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-docstring-to-markdown
+sdesc: "On the fly conversion of Python docstrings to markdown"
+ldesc: "The python3-docstring-to-markdown virtual package. Selecting this package for installation will cause the python39-docstring-to-markdown package to be installed."
+external-source: python-docstring-to-markdown
+
