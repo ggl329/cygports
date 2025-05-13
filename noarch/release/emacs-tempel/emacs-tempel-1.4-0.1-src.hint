@@ -1,0 +1,8 @@
+category: Editors
+build-depends: cygport texinfo
+sdesc: "Simple templates for Emacs"
+ldesc: "Tempel is a tiny template package for Emacs, which uses the syntax of the Emacs Tempo library."
+skip:
+
+homepage: https://github.com/minad/tempel
+license: GPL-3.0-or-later
