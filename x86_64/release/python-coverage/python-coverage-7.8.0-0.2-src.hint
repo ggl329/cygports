@@ -1,5 +1,5 @@
 category: Python
-build-depends: cygport 
+build-depends: cygport python39-cython python312-cython
 sdesc: "Code coverage tool for Python"
 ldesc: "Coverage.py measures code coverage, typically during test execution. It uses the code analysis tools and tracing hooks provided in the Python standard library to determine which lines are executable, and which have been executed."
 skip:
