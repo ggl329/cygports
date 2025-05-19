@@ -1,0 +1,8 @@
+category: Python
+build-depends: cygport python39-coverage python39-pytest python312-coverage python312-pytest
+sdesc: "Coverage plugin for pytest"
+ldesc: "This plugin produces coverage reports. Compared to just using coverage run this plugin does some extras."
+skip:
+
+homepage: https://github.com/pytest-dev/pytest-cov
+license: MIT
