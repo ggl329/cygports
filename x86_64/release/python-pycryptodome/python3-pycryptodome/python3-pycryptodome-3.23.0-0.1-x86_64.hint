@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-pycryptodome
+sdesc: "Self-contained cryptographic library for Python"
+ldesc: "The python3-pycryptodome virtual package. Selecting this package for installation will cause the python39-pycryptodome package to be installed."
+external-source: python-pycryptodome
+
