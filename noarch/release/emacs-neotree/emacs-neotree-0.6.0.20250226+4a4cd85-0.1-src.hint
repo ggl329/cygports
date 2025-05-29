@@ -1,0 +1,8 @@
+category: Editors
+build-depends: cygport 
+sdesc: "Emacs tree plugin like NerdTree for Vim"
+ldesc: "Emacs tree plugin like NerdTree for Vim."
+skip:
+
+homepage: https://github.com/jaypei/emacs-neotree
+license: GPL-3.0-or-later
