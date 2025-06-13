@@ -1,0 +1,8 @@
+category: Python
+build-depends: cygport 
+sdesc: "MessagePack serializer implementation for Python"
+ldesc: "MessagePack is an efficient binary serialization format. It lets you exchange data among multiple languages like JSON. But it's faster and smaller. This package provides CPython bindings for reading and writing MessagePack data."
+skip:
+
+homepage: https://pypi.org/project/msgpack/
+license: Apache-2.0

@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-msgpack
+sdesc: "MessagePack serializer implementation for Python"
+ldesc: "The python3-msgpack virtual package. Selecting this package for installation will cause the python39-msgpack package to be installed."
+external-source: python-msgpack
+
