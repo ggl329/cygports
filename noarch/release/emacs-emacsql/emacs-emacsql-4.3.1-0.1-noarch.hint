@@ -1,0 +1,6 @@
+category: Editors
+requires: emacs-bin
+sdesc: "High-level Emacs Lisp front-end for SQLite"
+ldesc: "EmacSQL is a high-level Emacs Lisp front-end for SQLite.
+PostgreSQL and MySQL are also supported, but use of these connectors is not recommended."
+
