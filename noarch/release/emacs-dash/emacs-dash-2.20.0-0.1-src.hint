@@ -1,0 +1,8 @@
+category: Editors
+build-depends: cygport texinfo
+sdesc: "Modern list library for Emacs"
+ldesc: "A modern list API for Emacs. No 'cl' required."
+skip:
+
+homepage: https://github.com/magnars/dash.el
+license: GPL-3.0-or-later
