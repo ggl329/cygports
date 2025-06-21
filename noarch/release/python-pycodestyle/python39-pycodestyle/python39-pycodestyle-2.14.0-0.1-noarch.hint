@@ -1,0 +1,6 @@
+category: Python
+requires: alternatives python39
+sdesc: "Simple Python style checker in one Python file"
+ldesc: "pycodestyle is a tool to check your Python code against some of the style conventions in PEP 8."
+external-source: python-pycodestyle
+

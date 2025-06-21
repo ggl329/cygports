@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-pycodestyle
+sdesc: "Simple Python style checker in one Python file"
+ldesc: "The python3-pycodestyle virtual package. Selecting this package for installation will cause the python39-pycodestyle package to be installed."
+external-source: python-pycodestyle
+

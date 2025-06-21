@@ -1,0 +1,8 @@
+category: Python
+build-depends: cygport 
+sdesc: "Simple Python style checker in one Python file"
+ldesc: "pycodestyle is a tool to check your Python code against some of the style conventions in PEP 8."
+skip:
+
+homepage: https://github.com/PyCQA/pycodestyle
+license: MIT
