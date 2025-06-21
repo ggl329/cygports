@@ -1,0 +1,8 @@
+category: Python
+build-depends: cygport 
+sdesc: "McCabe complexity checker for Python"
+ldesc: "Ned's script to check McCabe complexity. This module provides a plugin for flake8, the Python code checker."
+skip:
+
+homepage: https://github.com/PyCQA/mccabe
+license: MIT

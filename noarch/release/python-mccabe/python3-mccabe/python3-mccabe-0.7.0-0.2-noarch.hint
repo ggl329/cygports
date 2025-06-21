@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-mccabe
+sdesc: "McCabe complexity checker for Python"
+ldesc: "The python3-mccabe virtual package. Selecting this package for installation will cause the python39-mccabe package to be installed."
+external-source: python-mccabe
+
