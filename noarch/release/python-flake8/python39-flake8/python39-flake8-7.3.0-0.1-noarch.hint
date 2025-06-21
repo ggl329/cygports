@@ -1,0 +1,6 @@
+category: Python
+requires: alternatives python39 python39-pycodestyle python39-pyflakes python39-mccabe
+sdesc: "flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code."
+ldesc: "Flake8 is a wrapper around PyFlakes, pycodestyle, and Ned's McCabe script. Flake8 runs all tools by launching the single flake8 command. It displays the warnings in a per-file, merged output."
+external-source: python-flake8
+

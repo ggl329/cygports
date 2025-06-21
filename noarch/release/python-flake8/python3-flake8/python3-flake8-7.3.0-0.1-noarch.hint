@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-flake8
+sdesc: "flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code."
+ldesc: "The python3-flake8 virtual package. Selecting this package for installation will cause the python39-flake8 package to be installed."
+external-source: python-flake8
+
