@@ -1,0 +1,9 @@
+category: Editors
+build-depends: cygport texinfo
+sdesc: "Rudimentary Roam replica with Org-mode in Emacs"
+ldesc: "Org-roam is a plain-text knowledge management system. It brings some of Roam's more powerful features into the Org-mode ecosystem.
+Org-roam borrows principles from the Zettelkasten method, providing a solution for non-hierarchical note-taking. It should also work as a plug-and-play solution for anyone already using Org-mode for their personal wiki."
+skip:
+
+homepage: https://www.orgroam.com/
+license: GPL-3.0-or-later
