@@ -1,0 +1,8 @@
+category: Text
+build-depends: cygport libglib2.0-devel
+sdesc: "SKK dictionary maintenance tools"
+ldesc: "SKK dictionary maintenance tools"
+skip:
+
+homepage: https://github.com/skk-dev/skktools
+license: GPL-2.0-or-later
