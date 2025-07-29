@@ -1,0 +1,7 @@
+category: Libs
+requires: alternatives cygwin libassuan9 libgpg-error0
+sdesc: "GnuPG password dialog (w32)"
+ldesc: "pinentry is a small collection of dialog programs that allow GnuPG
+to read passphrases and PIN numbers in a secure manner."
+obsoletes: pinentry-w32
+

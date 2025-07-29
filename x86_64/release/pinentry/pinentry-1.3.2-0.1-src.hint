@@ -1,0 +1,9 @@
+category: Libs
+build-depends: cygport libassuan-devel libgpg-error-devel libncurses-devel
+sdesc: "GnuPG password dialog (w32)"
+ldesc: "pinentry is a small collection of dialog programs that allow GnuPG
+to read passphrases and PIN numbers in a secure manner."
+skip:
+
+homepage: https://www.gnupg.org/related_software/pinentry/index.en.html
+license: GPL-2.0-only
