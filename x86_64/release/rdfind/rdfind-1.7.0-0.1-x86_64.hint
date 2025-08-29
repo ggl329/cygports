@@ -1,0 +1,7 @@
+category: Utils
+requires: cygwin libgcc1 libnettle8 libstdc++6 libxxhash0
+sdesc: "Redundant data finder"
+ldesc: "Rdfind is a command line tool that finds duplicate files. It is
+useful for compressing backup directories or just finding duplicate files. It
+compares files based on their content, NOT on their file names."
+
