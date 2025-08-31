@@ -1,0 +1,5 @@
+category: Graphics
+requires: cygwin libcurl4 libgcc1 libjpeg8 libpng16
+sdesc: "A SIXEL encoder/decoder implementation derived from kmiya's library (runtime)"
+ldesc: "This package provides encoder/decoder implementation for DEC SIXEL graphics, and some converter programs."
+

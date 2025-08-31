@@ -1,0 +1,8 @@
+category: Graphics
+build-depends: cygport 
+sdesc: "A SIXEL encoder/decoder implementation derived from kmiya's library (runtime)"
+ldesc: "This package provides encoder/decoder implementation for DEC SIXEL graphics, and some converter programs."
+skip:
+
+homepage: https://github.com/saitoha/libsixel
+license: MIT AND OTHERS
