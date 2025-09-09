@@ -1,0 +1,6 @@
+category: Editors
+requires: emacs-bin
+sdesc: "Binding conditionals in Emacs"
+ldesc: "Emacs provides the binding conditionals if-let, if-let*, when-let, when-let*, and-let* and while-let.
+This package implements the missing and-let and while-let*, and the original cond-let, cond-let*, and$ and and>."
+
