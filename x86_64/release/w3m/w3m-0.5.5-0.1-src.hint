@@ -7,5 +7,5 @@ emulator window (xterm, rxvt, etc.). Moreover, w3m can be used as a text
 formatting tool which typesets HTML into plain text."
 skip:
 
-homepage: https://github.com/tats/w3m
+homepage: https://git.sr.ht/~rkta/w3m
 license: MIT
