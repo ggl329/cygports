@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-ujson
+sdesc: "ultra fast JSON encoder and decoder written in C with Python bindings"
+ldesc: "The python3-ujson virtual package. Selecting this package for installation will cause the python39-ujson package to be installed."
+external-source: python-ujson
+

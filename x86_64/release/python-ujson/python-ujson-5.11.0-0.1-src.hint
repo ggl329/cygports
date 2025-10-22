@@ -1,0 +1,8 @@
+category: Python
+build-depends: cygport 
+sdesc: "ultra fast JSON encoder and decoder written in C with Python bindings"
+ldesc: "UltraJSON is an ultra fast JSON encoder and decoder written in pure C with bindings for Python."
+skip:
+
+homepage: https://github.com/ultrajson/ultrajson
+license: TCL-and-BSD-3-Clause

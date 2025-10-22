@@ -1,0 +1,6 @@
+category: Python
+requires: cygwin libgcc1 libstdc++6 python39
+sdesc: "ultra fast JSON encoder and decoder written in C with Python bindings"
+ldesc: "UltraJSON is an ultra fast JSON encoder and decoder written in pure C with bindings for Python."
+external-source: python-ujson
+
