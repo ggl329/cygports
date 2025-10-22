@@ -1,0 +1,6 @@
+category: Python
+requires: python312 python312-ujson
+sdesc: "Python 3.8+ server implementation of the JSON RPC 2.0 protocol"
+ldesc: "This library has been pulled out of the Python LSP Server project."
+external-source: python-lsp-jsonrpc
+

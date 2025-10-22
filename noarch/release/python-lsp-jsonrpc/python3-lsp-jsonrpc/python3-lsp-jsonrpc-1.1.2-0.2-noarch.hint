@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-lsp-jsonrpc
+sdesc: "Python 3.8+ server implementation of the JSON RPC 2.0 protocol"
+ldesc: "The python3-lsp-jsonrpc virtual package. Selecting this package for installation will cause the python39-lsp-jsonrpc package to be installed."
+external-source: python-lsp-jsonrpc
+

@@ -1,0 +1,8 @@
+category: Python
+build-depends: cygport 
+sdesc: "Python 3.8+ server implementation of the JSON RPC 2.0 protocol"
+ldesc: "This library has been pulled out of the Python LSP Server project."
+skip:
+
+homepage: https://github.com/python-lsp/python-lsp-jsonrpc
+license: MIT
