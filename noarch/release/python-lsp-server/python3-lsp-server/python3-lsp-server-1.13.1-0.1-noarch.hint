@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-lsp-server
+sdesc: "Python3.9+ implementation of the Language Server Protocol"
+ldesc: "The python3-lsp-server virtual package. Selecting this package for installation will cause the python39-lsp-server package to be installed."
+external-source: python-lsp-server
+
