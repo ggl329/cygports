@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-pyserial
+sdesc: "Python serial port access library"
+ldesc: "The python3-pyserial virtual package. Selecting this package for installation will cause the python39-pyserial package to be installed."
+external-source: python-pyserial
+

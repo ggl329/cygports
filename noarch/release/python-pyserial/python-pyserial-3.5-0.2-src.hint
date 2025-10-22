@@ -1,0 +1,8 @@
+category: Python
+build-depends: cygport 
+sdesc: "Python serial port access library"
+ldesc: "This module encapsulates the access for the serial port. It provides backends for Python running on Windows, OSX, Linux, BSD (possibly any POSIX compliant system) and IronPython. The module named 'serial' automatically selects the appropriate backend."
+skip:
+
+homepage: https://github.com/pyserial/pyserial
+license: BSD-3-Clause
