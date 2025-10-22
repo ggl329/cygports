@@ -1,0 +1,8 @@
+category: Python
+requires: python39 python39-packaging python39-typing_extension python39-msgpack python39-pyserial python39-wrapt
+sdesc: "The 'can' package provides controller area network support for Python developers"
+ldesc: "The Controller Area Network is a bus standard designed to allow microcontrollers and devices to communicate with each other. It has priority based bus arbitration, reliable deterministic communication. It is used in cars, trucks, boats, wheelchairs and more.
+
+The 'can' package provides controller area network support for Python developers; providing common abstractions to different hardware devices, and a suite of utilities for sending and receiving messages on a can bus."
+external-source: python-can
+

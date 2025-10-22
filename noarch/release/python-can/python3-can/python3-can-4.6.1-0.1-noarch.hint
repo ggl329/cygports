@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-can
+sdesc: "The 'can' package provides controller area network support for Python developers"
+ldesc: "The python3-can virtual package. Selecting this package for installation will cause the python39-can package to be installed."
+external-source: python-can
+
