@@ -1,0 +1,5 @@
+category: Editors
+requires: emacs-bin
+sdesc: "Visualize the undo tree in Emacs"
+ldesc: "Vundo (visual undo) displays the undo history as a tree and lets you move in the tree to go back to previous buffer states."
+

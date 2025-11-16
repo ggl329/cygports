@@ -1,0 +1,8 @@
+category: Editors
+build-depends: cygport 
+sdesc: "Visualize the undo tree in Emacs"
+ldesc: "Vundo (visual undo) displays the undo history as a tree and lets you move in the tree to go back to previous buffer states."
+skip:
+
+homepage: https://github.com/casouri/vundo
+license: GPL-3.0-or-later
