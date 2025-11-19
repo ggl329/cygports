@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-tqdm
+sdesc: "Fast, Extensible Progress Bar for Python and CLI"
+ldesc: "The python3-tqdm virtual package. Selecting this package for installation will cause the python39-tqdm package to be installed."
+external-source: python-tqdm
+

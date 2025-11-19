@@ -1,0 +1,9 @@
+category: Python
+build-depends: cygport 
+sdesc: "Fast, Extensible Progress Bar for Python and CLI"
+ldesc: "tqdm derives from the Arabic word taqaddum (تقدّم) which can mean 'progress', and is an abbreviation for 'I love you so much' in Spanish (te quiero demasiado).
+Instantly make your loops show a smart progress meter - just wrap any iterable with tqdm(iterable), and you're done!"
+skip:
+
+homepage: https://github.com/tqdm/tqdm
+license: MIT
