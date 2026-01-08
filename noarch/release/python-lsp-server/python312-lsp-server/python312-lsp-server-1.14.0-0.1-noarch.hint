@@ -1,5 +1,5 @@
 category: Python
-requires: python39 python39-docstring-to-markdown python39-flake8 python39-jedi python39-lsp-jsonrpc python39-mccabe python39-parso python39-pluggy python39-pycodestyle python39-pyflakes python39-importlib-metadata
+requires: alternatives python312 python312-docstring-to-markdown python312-flake8 python312-jedi python312-lsp-jsonrpc python312-mccabe python312-parso python312-pluggy python312-pycodestyle python312-pyflakes
 sdesc: "Python3.9+ implementation of the Language Server Protocol"
 ldesc: "Fork of the python-language-server project, maintained by the Spyder IDE team and the community"
 external-source: python-lsp-server
