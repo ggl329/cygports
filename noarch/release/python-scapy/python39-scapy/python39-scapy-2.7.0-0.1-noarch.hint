@@ -1,0 +1,8 @@
+category: Python
+requires: alternatives python39
+sdesc: "Packet generator/sniffer and network scanner/discovery"
+ldesc: "Scapy is a powerful interactive packet manipulation tool, packet generator, network scanner, network discovery, packet sniffer, etc. It can for the moment replace hping, 85% of nmap, arpspoof, arp-sk, arping, tcpdump, tethereal, p0f, ....
+
+In scapy you define a set of packets, then it sends them, receives answers, matches requests with answers and returns a list of packet couples (request, answer) and a list of unmatched packets. This has the big advantage over tools like nmap or hping that an answer is not reduced to (open/closed/filtered), but is the whole packet."
+external-source: python-scapy
+

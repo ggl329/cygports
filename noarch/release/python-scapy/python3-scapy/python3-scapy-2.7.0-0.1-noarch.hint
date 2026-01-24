@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-scapy
+sdesc: "Packet generator/sniffer and network scanner/discovery"
+ldesc: "The python3-scapy virtual package. Selecting this package for installation will cause the python39-scapy package to be installed."
+external-source: python-scapy
+
