@@ -1,6 +1,0 @@
-category: Python Virtual
-requires: python39-pyproject-metadata
-sdesc: "Dataclass for PEP 621 metadata with support for core metadata generation"
-ldesc: "The python3-pyproject-metadata virtual package. Selecting this package for installation will cause the python39-pyproject-metadata package to be installed."
-external-source: python-pyproject-metadata
-

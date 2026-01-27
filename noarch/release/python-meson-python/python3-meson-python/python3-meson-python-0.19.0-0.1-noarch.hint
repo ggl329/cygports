@@ -1,6 +1,0 @@
-category: Python Virtual
-requires: python39-meson-python
-sdesc: "Meson PEP 517 Python build backend"
-ldesc: "The python3-meson-python virtual package. Selecting this package for installation will cause the python39-meson-python package to be installed."
-external-source: python-meson-python
-
