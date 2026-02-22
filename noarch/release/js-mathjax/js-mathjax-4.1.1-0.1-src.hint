@@ -1,0 +1,12 @@
+category: Interpreters
+build-depends: cygport 
+sdesc: "JavaScript engine for displaying mathematics"
+ldesc: "MathJax is an open-source JavaScript display engine for LaTeX,
+MathML, and AsciiMath notation that works in all modern browsers.  It was
+designed with the goal of consolidating the recent advances in web technologies
+into a single, definitive, math-on-the-web platform supporting the major
+browsers and operating systems."
+skip:
+
+homepage: https://www.mathjax.org/
+license: Apache-2.0
