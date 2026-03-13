@@ -1,5 +1,5 @@
 category: Graphics
-build-depends: cygport 
+build-depends: cygport libcurl-devel libjpeg-devel libpng-devel libwebp-devel
 sdesc: "A SIXEL encoder/decoder implementation derived from kmiya's library (runtime)"
 ldesc: "This package provides encoder/decoder implementation for DEC SIXEL graphics, and some converter programs."
 skip:
