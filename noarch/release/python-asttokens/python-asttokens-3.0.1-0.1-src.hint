@@ -1,0 +1,8 @@
+category: Python
+build-depends: cygport 
+sdesc: "Annotate Python AST trees with source text and token information"
+ldesc: "The asttokens module annotates Python abstract syntax trees (ASTs) with the positions of tokens and text in the source code that generated them."
+skip:
+
+homepage: https://github.com/gristlabs/asttokens
+license: Apache-2.0

@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-asttokens
+sdesc: "Annotate Python AST trees with source text and token information"
+ldesc: "The python3-asttokens virtual package. Selecting this package for installation will cause the python39-asttokens package to be installed."
+external-source: python-asttokens
+
