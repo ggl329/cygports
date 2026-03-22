@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-ipython-pygments-lexers
+sdesc: "Pygments lexers for syntax-highlighting IPython code & sessions"
+ldesc: "The python3-ipython-pygments-lexers virtual package. Selecting this package for installation will cause the python39-ipython-pygments-lexers package to be installed."
+external-source: python-ipython-pygments-lexers
+

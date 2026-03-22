@@ -1,0 +1,8 @@
+category: Python
+build-depends: cygport python39-flit-core python39-pygments python312-flit-core python312-pygments
+sdesc: "Pygments lexers for syntax-highlighting IPython code & sessions"
+ldesc: "Pygments lexers for syntax-highlighting IPython code & sessions"
+skip:
+
+homepage: https://github.com/ipython/ipython-pygments-lexers
+license: BSD 3-Clause

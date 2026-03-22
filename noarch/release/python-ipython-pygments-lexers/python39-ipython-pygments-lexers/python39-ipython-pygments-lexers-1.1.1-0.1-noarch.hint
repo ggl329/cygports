@@ -1,0 +1,6 @@
+category: Python
+requires: python39 python39-pygments
+sdesc: "Pygments lexers for syntax-highlighting IPython code & sessions"
+ldesc: "Pygments lexers for syntax-highlighting IPython code & sessions"
+external-source: python-ipython-pygments-lexers
+
