@@ -1,0 +1,8 @@
+category: Python
+build-depends: cygport python312-jinja2 python312-markdown2 python312-markupsafe python312-pygments
+sdesc: "API Documentation for Python Projects"
+ldesc: "API Documentation for Python Projects"
+skip:
+
+homepage: https://pdoc.dev/
+license: MIT-0

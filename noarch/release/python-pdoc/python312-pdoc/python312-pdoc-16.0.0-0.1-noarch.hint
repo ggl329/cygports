@@ -1,0 +1,6 @@
+category: Python
+requires: alternatives python312 python312-jinja2 python312-markdown2 python312-markupsafe python312-pygments
+sdesc: "API Documentation for Python Projects"
+ldesc: "API Documentation for Python Projects"
+external-source: python-pdoc
+
