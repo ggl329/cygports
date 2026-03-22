@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-pybind11
+sdesc: "Seamless operability between C++11 and Python"
+ldesc: "The python3-pybind11 virtual package. Selecting this package for installation will cause the python39-pybind11 package to be installed."
+external-source: python-pybind11
+
