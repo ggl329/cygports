@@ -1,0 +1,6 @@
+category: Python
+requires: python312 python312-asttokens python312-executing python312-pure-eval
+sdesc: "This is a library that extracts data from stack frames and tracebacks, particularly to display more useful tracebacks than the default. It powers the tracebacks in IPython and futurecoder."
+ldesc: "This is a library that extracts data from stack frames and tracebacks, particularly to display more useful tracebacks than the default. It powers the tracebacks in IPython and futurecoder."
+external-source: python-stack-data
+

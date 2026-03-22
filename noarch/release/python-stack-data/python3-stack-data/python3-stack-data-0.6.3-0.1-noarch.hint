@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-stack-data
+sdesc: "This is a library that extracts data from stack frames and tracebacks, particularly to display more useful tracebacks than the default. It powers the tracebacks in IPython and futurecoder."
+ldesc: "The python3-stack-data virtual package. Selecting this package for installation will cause the python39-stack-data package to be installed."
+external-source: python-stack-data
+
