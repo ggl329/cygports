@@ -1,0 +1,6 @@
+category: Python
+requires: python39 python39-traitlets
+sdesc: "Inline Matplotlib backend for Jupyter"
+ldesc: "This package provides support for matplotlib to display figures directly inline in the Jupyter notebook and related clients."
+external-source: python-matplotlib-inline
+

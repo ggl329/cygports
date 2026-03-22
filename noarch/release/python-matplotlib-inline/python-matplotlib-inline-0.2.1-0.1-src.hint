@@ -1,0 +1,8 @@
+category: Python
+build-depends: cygport python39-flit-core python39-traitlets python312-flit-core python312-traitlets
+sdesc: "Inline Matplotlib backend for Jupyter"
+ldesc: "This package provides support for matplotlib to display figures directly inline in the Jupyter notebook and related clients."
+skip:
+
+homepage: https://github.com/ipython/matplotlib-inline
+license: BSD 3-Clause

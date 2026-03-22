@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-matplotlib-inline
+sdesc: "Inline Matplotlib backend for Jupyter"
+ldesc: "The python3-matplotlib-inline virtual package. Selecting this package for installation will cause the python39-matplotlib-inline package to be installed."
+external-source: python-matplotlib-inline
+
