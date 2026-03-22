@@ -1,0 +1,6 @@
+category: Python
+requires: python312
+sdesc: "Get information about what a Python frame is currently doing, particularly the AST node being executed"
+ldesc: "This mini-package lets you get information about what a frame is currently doing, particularly the AST node being executed."
+external-source: python-executing
+

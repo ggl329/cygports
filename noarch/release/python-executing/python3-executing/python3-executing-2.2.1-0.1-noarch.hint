@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-executing
+sdesc: "Get information about what a Python frame is currently doing, particularly the AST node being executed"
+ldesc: "The python3-executing virtual package. Selecting this package for installation will cause the python39-executing package to be installed."
+external-source: python-executing
+

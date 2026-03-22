@@ -1,0 +1,8 @@
+category: Python
+build-depends: cygport 
+sdesc: "Get information about what a Python frame is currently doing, particularly the AST node being executed"
+ldesc: "This mini-package lets you get information about what a frame is currently doing, particularly the AST node being executed."
+skip:
+
+homepage: https://github.com/alexmojaki/executing
+license: MIT
