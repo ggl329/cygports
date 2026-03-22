@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-pure-eval
+sdesc: "Safely evaluate AST nodes without side effects in python"
+ldesc: "The python3-pure-eval virtual package. Selecting this package for installation will cause the python39-pure-eval package to be installed."
+external-source: python-pure-eval
+

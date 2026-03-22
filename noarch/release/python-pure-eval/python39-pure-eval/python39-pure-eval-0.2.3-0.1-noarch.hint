@@ -1,0 +1,6 @@
+category: Python
+requires: python39
+sdesc: "Safely evaluate AST nodes without side effects in python"
+ldesc: "This is a Python package that lets you safely evaluate certain AST nodes without triggering arbitrary code that may have unwanted side effects."
+external-source: python-pure-eval
+
