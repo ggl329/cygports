@@ -1,0 +1,8 @@
+category: Python
+build-depends: cygport 
+sdesc: "A fast and complete implementation of Markdown in Python"
+ldesc: "A fast and complete implementation of Markdown in Python"
+skip:
+
+homepage: https://github.com/trentm/python-markdown2
+license: MIT

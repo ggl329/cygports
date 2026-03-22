@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-markdown2
+sdesc: "A fast and complete implementation of Markdown in Python"
+ldesc: "The python3-markdown2 virtual package. Selecting this package for installation will cause the python39-markdown2 package to be installed."
+external-source: python-markdown2
+

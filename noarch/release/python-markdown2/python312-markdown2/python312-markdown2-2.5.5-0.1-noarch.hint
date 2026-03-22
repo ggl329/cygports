@@ -1,0 +1,6 @@
+category: Python
+requires: alternatives python312
+sdesc: "A fast and complete implementation of Markdown in Python"
+ldesc: "A fast and complete implementation of Markdown in Python"
+external-source: python-markdown2
+
