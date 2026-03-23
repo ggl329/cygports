@@ -1,0 +1,9 @@
+category: Python
+build-depends: cygport python312-contourpy python312-cycler python312-dateutil python312-fonttools python312-imaging python312-kiwisolver python312-meson-python python312-numpy python312-packaging python312-pybind11 python312-pyparsing python312-setuptools_scm
+sdesc: "Python plotting package"
+ldesc: "Matplotlib is a comprehensive library for creating static,
+animated, and interactive visualizations in Python."
+skip:
+
+homepage: https://matplotlib.org/
+license: PSF-2.0
