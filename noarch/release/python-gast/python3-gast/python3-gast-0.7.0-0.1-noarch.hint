@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-gast
+sdesc: "Python AST that abstracts the underlying Python version"
+ldesc: "The python3-gast virtual package. Selecting this package for installation will cause the python39-gast package to be installed."
+external-source: python-gast
+

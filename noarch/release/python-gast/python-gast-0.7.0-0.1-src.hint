@@ -1,0 +1,9 @@
+category: Python
+build-depends: cygport 
+sdesc: "Python AST that abstracts the underlying Python version"
+ldesc: "A generic AST to represent Python2 and Python3's Abstract Syntax Tree(AST).
+GAST provides a compatibility layer between the AST of various Python versions, as produced by ast.parse from the standard ast module."
+skip:
+
+homepage: https://github.com/serge-sans-paille/gast/
+license: BSD-3-Clause
