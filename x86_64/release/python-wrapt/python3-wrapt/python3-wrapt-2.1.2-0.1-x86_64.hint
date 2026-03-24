@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-wrapt
+sdesc: "Module for decorators, wrappers and monkey patching"
+ldesc: "The python3-wrapt virtual package. Selecting this package for installation will cause the python39-wrapt package to be installed."
+external-source: python-wrapt
+

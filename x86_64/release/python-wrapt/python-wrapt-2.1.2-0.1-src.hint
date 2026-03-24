@@ -1,0 +1,8 @@
+category: Python
+build-depends: cygport 
+sdesc: "Module for decorators, wrappers and monkey patching"
+ldesc: "Module for decorators, wrappers and monkey patching"
+skip:
+
+homepage: https://github.com/GrahamDumpleton/wrapt
+license: BSD-2-Clause

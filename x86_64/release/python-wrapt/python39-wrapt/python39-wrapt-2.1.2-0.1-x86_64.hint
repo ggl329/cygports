@@ -1,0 +1,6 @@
+category: Python
+requires: cygwin python39
+sdesc: "Module for decorators, wrappers and monkey patching"
+ldesc: "Module for decorators, wrappers and monkey patching"
+external-source: python-wrapt
+
