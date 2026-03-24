@@ -1,0 +1,8 @@
+category: Python
+build-depends: cygport python39-gast python312-gast
+sdesc: "Extract semantic information about static Python code"
+ldesc: "Collection of compile-time analyzers of Python Abstract Syntax Trees that can be used as building blocks to write static analyzers or compilers."
+skip:
+
+homepage: https://github.com/serge-sans-paille/beniget/
+license: BSD-3-Clause
