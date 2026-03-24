@@ -1,5 +1,5 @@
 category: Python
-build-depends: cygport 
+build-depends: cygport python312-setuptools_scm python312-packaging python312-typing_extension python312-wrapt
 sdesc: "The 'can' package provides controller area network support for Python developers"
 ldesc: "The Controller Area Network is a bus standard designed to allow microcontrollers and devices to communicate with each other. It has priority based bus arbitration, reliable deterministic communication. It is used in cars, trucks, boats, wheelchairs and more.
 
