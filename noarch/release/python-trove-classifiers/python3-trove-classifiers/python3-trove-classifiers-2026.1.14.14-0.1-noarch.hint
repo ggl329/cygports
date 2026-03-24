@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-trove-classifiers
+sdesc: "Canonical source for classifiers on PyPI"
+ldesc: "The python3-trove-classifiers virtual package. Selecting this package for installation will cause the python39-trove-classifiers package to be installed."
+external-source: python-trove-classifiers
+
