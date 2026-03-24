@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-pythran
+sdesc: "ahead of time compiler for numeric kernels for Python"
+ldesc: "The python3-pythran virtual package. Selecting this package for installation will cause the python39-pythran package to be installed."
+external-source: python-pythran
+
