@@ -1,0 +1,10 @@
+category: Python
+build-depends: cygport liblapack-devel liblbfgsb0-devel python312-cython python312-meson-python python312-pybind11 python312-pythran python312-numpy
+sdesc: "scientific tools for Python 3"
+ldesc: "SciPy supplements the popular NumPy module (python-numpy package), gathering a variety of high level science and engineering modules together as a single package.
+
+SciPy is a set of Open Source scientific and numeric tools for Python. It currently supports special functions, integration, ordinary differential equation (ODE) solvers, gradient optimization, genetic algorithms, parallel programming tools, an expression-to-C++ compiler for fast execution, and others."
+skip:
+
+homepage: http://www.scipy.org/
+license: BSD-3-Clause
