@@ -1,6 +1,0 @@
-category: Python
-requires: alternatives python312
-sdesc: "Canonical source for classifiers on PyPI"
-ldesc: "Classifiers categorize projects per PEP 301. Use this package to validate classifiers in packages for PyPI upload or download."
-external-source: python-trove-classifiers
-
