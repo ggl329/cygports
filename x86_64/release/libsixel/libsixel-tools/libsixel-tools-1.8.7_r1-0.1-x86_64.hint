@@ -1,0 +1,6 @@
+category: Graphics
+requires: cygwin libsixel
+sdesc: "A SIXEL encoder/decoder implementation derived from kmiya's tools"
+ldesc: "This package provides encoder/decoder implementation for DEC SIXEL graphics, and some converter programs."
+external-source: libsixel
+
