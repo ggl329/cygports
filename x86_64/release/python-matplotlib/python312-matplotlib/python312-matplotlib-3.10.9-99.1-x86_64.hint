@@ -1,0 +1,7 @@
+category: Python
+requires: cygwin libfreetype6 libgcc1 libqhull_8 libstdc++6 python312 python312-cycler python312-dateutil python312-docutils python312-fonttools python312-imaging python312-jinja2 python312-kiwisolver python312-numpy python312-packaging python312-pyparsing
+sdesc: "Python plotting package"
+ldesc: "Matplotlib is a comprehensive library for creating static,
+animated, and interactive visualizations in Python."
+external-source: python-matplotlib
+
