@@ -1,0 +1,8 @@
+category: Editors
+build-depends: cygport texinfo
+sdesc: "COMPATibility Library for Emacs"
+ldesc: "The objective of Compat is to provide 'forwards compatibility' library for Emacs Lisp. By using Compat, an Elisp package does not have to make the decision to either use new and useful functionality or support old versions of Emacs."
+skip:
+
+homepage: https://github.com/emacs-compat/compat
+license: GPL-3.0-or-later
