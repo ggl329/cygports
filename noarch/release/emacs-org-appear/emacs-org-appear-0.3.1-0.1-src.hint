@@ -1,0 +1,8 @@
+category: Editors
+build-depends: cygport 
+sdesc: "Toggle visibility of hidden Org mode element parts upon entering and leaving an element"
+ldesc: "This package, inspired by org-fragtog, enables automatic visibility toggling depending on cursor position. Hidden element parts appear when the cursor enters an element and disappear when it leaves."
+skip:
+
+homepage: https://github.com/awth13/org-appear
+license: MIT

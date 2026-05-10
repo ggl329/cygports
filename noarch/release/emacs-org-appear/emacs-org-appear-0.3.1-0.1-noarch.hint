@@ -1,0 +1,5 @@
+category: Editors
+requires: emacs-bin
+sdesc: "Toggle visibility of hidden Org mode element parts upon entering and leaving an element"
+ldesc: "This package, inspired by org-fragtog, enables automatic visibility toggling depending on cursor position. Hidden element parts appear when the cursor enters an element and disappear when it leaves."
+
