@@ -1,0 +1,8 @@
+category: Editors
+build-depends: cygport 
+sdesc: "A simple, extensible LLM client for Emacs"
+ldesc: "gptel is a simple Large Language Model chat client for Emacs, with support for multiple models and backends. It works in the spirit of Emacs, available at any time and uniformly in any buffer."
+skip:
+
+homepage: https://github.com/karthink/gptel
+license: GPL-3.0-or-later

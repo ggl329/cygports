@@ -1,0 +1,5 @@
+category: Editors
+requires: emacs-bin emacs-transient
+sdesc: "A simple, extensible LLM client for Emacs"
+ldesc: "gptel is a simple Large Language Model chat client for Emacs, with support for multiple models and backends. It works in the spirit of Emacs, available at any time and uniformly in any buffer."
+
