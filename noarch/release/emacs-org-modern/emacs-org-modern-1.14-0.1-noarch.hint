@@ -1,5 +1,4 @@
 category: Editors
-requires: emacs-bin emacs-common
+requires: emacs-bin emacs-common emacs-compat
 sdesc: "Modern Org Style for Emacs"
 ldesc: "This package implements a modern style for your Org buffers using font locking and text properties. The package styles headlines, keywords, tables and source blocks. The styling is configurable, you can disable or modify the style of each syntax element individually via the org-modern customization group."
-

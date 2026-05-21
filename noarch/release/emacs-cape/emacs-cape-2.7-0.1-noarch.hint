@@ -1,5 +1,4 @@
 category: Editors
-requires: emacs-bin
+requires: emacs-bin emacs-compat
 sdesc: "Completion At Point Extensions for Emacs"
 ldesc: "Cape provides Completion At Point Extensions which can be used in combination with Corfu, Company or the default completion UI. The completion backends used by completion-at-point are so called completion-at-point-functions (Capfs)."
-

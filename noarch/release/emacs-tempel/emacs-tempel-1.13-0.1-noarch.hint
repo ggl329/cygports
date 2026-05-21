@@ -1,5 +1,4 @@
 category: Editors
-requires: emacs-bin
+requires: emacs-bin emacs-compat
 sdesc: "Simple templates for Emacs"
 ldesc: "Tempel is a tiny template package for Emacs, which uses the syntax of the Emacs Tempo library."
-
