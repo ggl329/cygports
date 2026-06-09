@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-lxml
+sdesc: "The lxml XML toolkit for Python"
+ldesc: "The python3-lxml virtual package. Selecting this package for installation will cause the python39-lxml package to be installed."
+external-source: python-lxml
+

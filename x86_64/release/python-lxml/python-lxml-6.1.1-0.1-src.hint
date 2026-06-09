@@ -1,0 +1,8 @@
+category: Python
+build-depends: cygport libiconv-devel libxml2-devel libxslt-devel python39-cython python312-cython
+sdesc: "The lxml XML toolkit for Python"
+ldesc: "lxml is the most feature-rich and easy-to-use library for processing XML and HTML in the Python language. It's also very fast and memory friendly, just so you know."
+skip:
+
+homepage: https://lxml.de/
+license: BSD-3-Clause
