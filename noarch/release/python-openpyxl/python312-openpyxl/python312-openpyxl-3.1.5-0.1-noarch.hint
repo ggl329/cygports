@@ -1,0 +1,6 @@
+category: Python
+requires: python312 python312-lxml
+sdesc: "Python library to read/write Excel 2010 xlsx/xlsm/xltx/xltm files"
+ldesc: "Python library to read/write Excel 2010 xlsx/xlsm/xltx/xltm files"
+external-source: python-openpyxl
+

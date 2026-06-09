@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-openpyxl
+sdesc: "Python library to read/write Excel 2010 xlsx/xlsm/xltx/xltm files"
+ldesc: "The python3-openpyxl virtual package. Selecting this package for installation will cause the python39-openpyxl package to be installed."
+external-source: python-openpyxl
+

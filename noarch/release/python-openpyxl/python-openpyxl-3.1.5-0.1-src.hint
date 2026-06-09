@@ -1,0 +1,8 @@
+category: Python
+build-depends: cygport 
+sdesc: "Python library to read/write Excel 2010 xlsx/xlsm/xltx/xltm files"
+ldesc: "Python library to read/write Excel 2010 xlsx/xlsm/xltx/xltm files"
+skip:
+
+homepage: https://foss.heptapod.net/openpyxl/openpyxl
+license: MIT
