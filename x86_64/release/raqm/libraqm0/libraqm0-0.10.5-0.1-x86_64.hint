@@ -1,0 +1,7 @@
+category: Libs
+requires: cygwin libfreetype6 libfribidi0 libharfbuzz0
+sdesc: "A library for complex text layout (runtime)"
+ldesc: "Raqm is a small library that encapsulates the logic for complex text
+layout and provides a convenient API."
+external-source: raqm
+
