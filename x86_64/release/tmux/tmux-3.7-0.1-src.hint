@@ -12,5 +12,5 @@ interface, with the same syntax whether used interactively, as a key binding,
 or from the shell. It offers a choice of vim or Emacs key layouts."
 skip:
 
-homepage: http://tmux.github.io
+homepage: https://github.com/tmux/tmux
 license: ISC AND BSD-3-Clause AND BSD-2-Clause
