@@ -1,0 +1,6 @@
+category: Python
+requires: alternatives python312 python312-colorlog python312-jinja2 python312-lxml python312-markupsafe python312-pygments
+sdesc: "Generate code coverage reports with gcc/gcov"
+ldesc: "Gcovr provides a utility for managing the use of the GNU gcov utility and generating summarized code coverage results. This command is inspired by the Python coverage.py package, which provides a similar utility for Python."
+external-source: python-gcovr
+

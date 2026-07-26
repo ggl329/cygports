@@ -1,0 +1,8 @@
+category: Python
+build-depends: cygport python312-hatch-fancy-pypi-readme python312-hatch-vcs python312-hatchling python312-colorlog python312-jinja2 python312-lxml python312-pygments
+sdesc: "Generate code coverage reports with gcc/gcov"
+ldesc: "Gcovr provides a utility for managing the use of the GNU gcov utility and generating summarized code coverage results. This command is inspired by the Python coverage.py package, which provides a similar utility for Python."
+skip:
+
+homepage: https://github.com/gcovr/gcovr
+license: BSD-3-Clause
