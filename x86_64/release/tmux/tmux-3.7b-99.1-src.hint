@@ -1,5 +1,5 @@
 category: Utils
-build-depends: cygport autoconf automake pkg-config libtool gettext-devel make git libevent-devel libncurses-devel bison
+build-depends: cygport autoconf automake pkg-config libtool gettext-devel make libevent-devel libncurses-devel bison
 sdesc: "Terminal multiplexer"
 ldesc: "tmux enables a number of terminals (or windows) to be accessed and
 controlled from a single terminal like screen. tmux runs as a server-client
