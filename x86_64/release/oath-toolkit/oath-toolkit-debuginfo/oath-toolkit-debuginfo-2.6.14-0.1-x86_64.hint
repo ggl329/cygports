@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: oath-toolkit
+sdesc: "Debug info for oath-toolkit"
+ldesc: "This package contains files necessary for debugging the
+oath-toolkit package with gdb."
+
