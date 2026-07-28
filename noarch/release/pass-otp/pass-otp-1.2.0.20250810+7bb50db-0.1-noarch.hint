@@ -1,0 +1,5 @@
+category: Security
+requires: bash pass oathtool
+sdesc: "A pass extension for managing one-time-password (OTP) tokens"
+ldesc: "A pass extension for managing one-time-password (OTP) tokens"
+

@@ -1,0 +1,8 @@
+category: Security
+build-depends: cygport 
+sdesc: "A pass extension for managing one-time-password (OTP) tokens"
+ldesc: "A pass extension for managing one-time-password (OTP) tokens"
+skip:
+
+homepage: https://github.com/tadfisher/pass-otp
+license: GPL-3.0-or-later
