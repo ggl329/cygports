@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: fontforge
+sdesc: "Debug info for fontforge"
+ldesc: "This package contains files necessary for debugging the
+fontforge package with gdb."
+
