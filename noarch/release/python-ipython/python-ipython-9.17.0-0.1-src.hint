@@ -1,5 +1,5 @@
 category: Python
-requires: python312 python312-docutils python312-ipython-pygments-lexers python312-prompt_toolkit python312-pygments python312-pytest python312-setuptools python312-stack-data python312-traitlets python312-wcwidth python312-jedi python312-matplotlib-inline python312-pexpect
+build-depends: cygport python312-ipython-pygments-lexers python312-jedi python312-matplotlib-inline python312-pexpect python312-prompt_toolkit python312-pygments python312-stack-data python312-traitlets
 sdesc: "Interactive Python interpreter"
 ldesc: "IPython is a free software project which tries to:
 * Provide an interactive shell superior to Python's default.
@@ -7,5 +7,7 @@ ldesc: "IPython is a free software project which tries to:
 * Offer a flexible framework which can be used as the base environment
   for other systems with Python as the underlying language.
 * Allow interactive testing of threaded graphical toolkits."
-external-source: python-ipython
+skip:
 
+homepage: http://ipython.org/
+license: BSD-3-Clause
