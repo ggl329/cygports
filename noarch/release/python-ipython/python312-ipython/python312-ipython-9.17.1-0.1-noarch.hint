@@ -8,3 +8,4 @@ ldesc: "IPython is a free software project which tries to:
   for other systems with Python as the underlying language.
 * Allow interactive testing of threaded graphical toolkits."
 external-source: python-ipython
+
