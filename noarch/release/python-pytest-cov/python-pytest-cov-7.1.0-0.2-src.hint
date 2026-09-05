@@ -1,0 +1,8 @@
+category: Python
+build-depends: cygport python312-hatchling python312-hatch-fancy-pypi-readme python312-trove_classifiers python312-coverage python312-pytest python312-pluggy
+sdesc: "Coverage plugin for pytest"
+ldesc: "This plugin produces coverage reports. Compared to just using coverage run this plugin does some extras."
+skip:
+
+homepage: https://github.com/pytest-dev/pytest-cov
+license: MIT
