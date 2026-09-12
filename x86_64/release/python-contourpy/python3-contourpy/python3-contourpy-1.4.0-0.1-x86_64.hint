@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python312-contourpy
+sdesc: "Python library for calculating contours of 2D quadrilateral grids"
+ldesc: "The python3-contourpy virtual package. Selecting this package for installation will cause the python312-contourpy package to be installed."
+external-source: python-contourpy
+
