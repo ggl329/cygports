@@ -1,0 +1,8 @@
+category: Libs
+requires: cygwin libaspell15 libgcc1 libglib2.0_0 libhunspell1.7_0 libstdc++6
+sdesc: "Interface to various spell checking libraries"
+ldesc: "The project aims to provide an efficient extensible abstraction
+for dealing with different spell checking libraries. Enchant is meant to
+provide a generic interface into various existing spell checking libraries."
+external-source: enchant
+

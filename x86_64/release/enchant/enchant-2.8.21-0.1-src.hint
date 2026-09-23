@@ -1,0 +1,10 @@
+category: Text
+build-depends: cygport libaspell-devel libhunspell-devel libglib2.0-devel
+sdesc: "Interface to various spell checking libraries"
+ldesc: "The project aims to provide an efficient extensible abstraction
+for dealing with different spell checking libraries. Enchant is meant to
+provide a generic interface into various existing spell checking libraries."
+skip:
+
+homepage: https://rrthomas.github.io/enchant/
+license: LGPL-2.1-or-later
