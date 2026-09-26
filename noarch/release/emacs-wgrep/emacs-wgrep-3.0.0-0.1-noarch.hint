@@ -1,0 +1,5 @@
+category: Editors
+requires: emacs-bin
+sdesc: "Writable grep buffer and apply the changes to files in Emacs"
+ldesc: "Wgrep allows you to edit a grep buffer and apply those changes to the file buffer like sed interactively. No need to learn sed script, just learn Emacs."
+
