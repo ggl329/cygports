@@ -1,0 +1,8 @@
+category: Editors
+build-depends: cygport 
+sdesc: "Emacs package for highlighting uncommitted changes"
+ldesc: "diff-hl-mode highlights uncommitted changes on the side of the window, allows you to jump between and revert them selectively."
+skip:
+
+homepage: https://github.com/dgutov/diff-hl
+license: GPL-3.0-or-later
