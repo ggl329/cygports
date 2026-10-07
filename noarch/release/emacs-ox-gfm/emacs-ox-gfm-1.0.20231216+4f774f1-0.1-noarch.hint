@@ -1,0 +1,5 @@
+category: Editors
+requires: emacs-bin
+sdesc: "Github Flavored Markdown Back-End for Emacs Org Export Engine"
+ldesc: "This is a small exporter based on the Markdown exporter already existing in Emacs Org mode."
+

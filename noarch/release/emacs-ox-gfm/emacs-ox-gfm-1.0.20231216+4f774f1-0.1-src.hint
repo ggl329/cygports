@@ -1,0 +1,8 @@
+category: Editors
+build-depends: cygport 
+sdesc: "Github Flavored Markdown Back-End for Emacs Org Export Engine"
+ldesc: "This is a small exporter based on the Markdown exporter already existing in Emacs Org mode."
+skip:
+
+homepage: https://github.com/larstvei/ox-gfm
+license: GPL-3.0-or-later
