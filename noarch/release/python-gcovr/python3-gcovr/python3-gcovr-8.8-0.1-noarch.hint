@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python312-gcovr
+sdesc: "Generate code coverage reports with gcc/gcov"
+ldesc: "The python3-gcovr virtual package. Selecting this package for installation will cause the python312-gcovr package to be installed."
+external-source: python-gcovr
+
