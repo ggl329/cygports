@@ -1,0 +1,5 @@
+category: Python
+requires: python312 python312-packaging
+sdesc: "Command-line tool for extracting dependencies and extras from Python distribution metadata."
+ldesc: "Command-line tool for extracting dependencies and extras from Python distribution metadata."
+

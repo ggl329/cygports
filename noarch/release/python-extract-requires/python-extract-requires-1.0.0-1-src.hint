@@ -1,0 +1,7 @@
+category: Python
+build-depends: cygport 
+sdesc: "Command-line tool for extracting dependencies and extras from Python distribution metadata."
+ldesc: "Command-line tool for extracting dependencies and extras from Python distribution metadata."
+skip:
+
+license: MIT
