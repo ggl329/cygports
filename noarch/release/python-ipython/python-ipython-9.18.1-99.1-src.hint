@@ -1,5 +1,5 @@
 category: Python
-build-depends: cygport python312-ipython-pygments-lexers python312-jedi python312-matplotlib-inline python312-pexpect python312-prompt_toolkit python312-pygments python312-stack-data python312-traitlets
+build-depends: cygport python312-setuptools python-extract-requires
 sdesc: "Interactive Python interpreter"
 ldesc: "IPython is a free software project which tries to:
 * Provide an interactive shell superior to Python's default.
